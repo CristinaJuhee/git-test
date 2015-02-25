@@ -6,6 +6,6 @@
  */
 
   echo 12314;
-  echo '<font color="red"> Juhee Lee</font>';
+  echo '<font color="red"> Juhee</font>';
   
 ?>
